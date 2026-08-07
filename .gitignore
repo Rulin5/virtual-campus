@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.next/
+.vinext/
+.wrangler/
+.tools/
+.package-stage/
+outputs/
+work/
+.obsidian/
+.env
+.env.*
+*.pem
+*.tar.gz
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

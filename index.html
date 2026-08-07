@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <base href="/" />
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/x-icon" href="assets/images/favicon/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, maximum-scale=5.0" />
+  <meta name="theme-color" content="#ffffff" />
+  <title>Pixel RPG Portfolio</title>
+  <meta name="description" content="A retro RPG-style developer portfolio" />
+
+  <link rel="stylesheet" href="assets/styles-DVTBSD34.css" />
+  <link rel="stylesheet" href="assets/css/styles.css?v=20260806-4" />
+
+  <style>
+    /* 内联关键样式 — 防止加载闪烁 */
+    html,body{margin:0;padding:0;overflow:hidden;font-family:"Press Start 2P",monospace}
+    #init-load{position:fixed;top:0;left:0;width:100%;height:100%;background:#fff;z-index:9999999;display:flex;align-items:center;justify-content:center;font-size:18px}
+  </style>
+</head>
+<body>
+  <!-- ===== 1. Loading 覆盖层 ===== -->
+  <div id="init-load">Loading...</div>
+
+  <!-- ===== 2. 预加载器 ===== -->
+  <div id="preloader-screen" style="position:fixed;top:0;left:0;width:100%;height:100%;z-index:100000;background:#fff;">
+    <div class="progress-percentage">
+      <div class="preloader-text">
+        <img width="310" height="310" src="assets/images/peter-oravec.gif" alt="Loading" class="preloader-image" onerror="this.style.display='none'" />
+      </div>
+      <div class="preloader"><div class="bar" id="progress-bar" style="width:0%"></div></div>
+      <div class="preloader-text" id="progress-text">0%</div>
+    </div>
+  </div>
+
+  <!-- ===== 3. Play 界面 ===== -->
+  <div class="play-box" id="play-box" style="display:none;">
+    <div class="mini-text top-text"><div class="box">Front-end, Angular, Node.js, Javascript developer portfolio</div></div>
+    <div class="wrp">
+      <div class="img-wrp">
+        <img src="assets/images/peteroravec-logo.webp" alt="Portfolio" width="441" height="282" fetchpriority="high" />
+        <div class="btn-wrp"><button type="button" class="nes-btn is-error btn-play" id="btn-play">Play</button></div>
+      </div>
+    </div>
+    <div class="mini-text bottom-text">
+      <div class="linkedin-box">
+        <div class="box text"><span class="highlight-text">No time to explore my portfolio?</span></div>
+        <div class="box box-btn"><a href="https://www.linkedin.com/in/peteroravec" target="_blank" class="nes-btn is-primary">LinkedIn</a></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== 4. 游戏容器 ===== -->
+  <main id="main-content" class="game-container" style="display:none;">
+    <div id="game-div"></div>
+    <div class="game-hud" id="game-hud" aria-label="Portfolio navigation">
+      <img class="hud-logo" src="assets/images/peteroravec-logo.webp" alt="Peter Oravec portfolio" />
+      <nav class="hud-nav">
+        <button type="button" data-modal="about" onclick="window.modalManager.open('about')">About me</button>
+        <button type="button" data-modal="cv" onclick="window.modalManager.open('cv')">CV</button>
+        <button type="button" data-modal="projects" onclick="window.modalManager.open('projects')">Projects</button>
+        <button type="button" data-modal="tech" onclick="window.modalManager.open('tech')">Technologies</button>
+        <button type="button" data-modal="underhood" onclick="window.modalManager.open('underhood')">#memo</button>
+        <button type="button" data-modal="contact" onclick="window.modalManager.open('contact')">Contact</button>
+      </nav>
+      <div class="hud-actions">
+        <button type="button" data-modal="bigmap" onclick="window.modalManager.open('bigmap')">Map</button>
+        <button type="button" id="language-toggle">SK</button>
+      </div>
+    </div>
+    <div class="modal-backdrop" id="modal-backdrop"></div>
+
+    <!-- 4.1 Technologies -->
+    <div id="modal-tech" class="modal">
+      <div class="frame-wrp"><div class="frame-wrp-inner">
+        <button class="nes-btn is-error close-btn">×</button>
+        <div class="frame pixel-corners" style="max-width:1200px"><div class="text-content">
+          <h2 class="big-title">Technologies</h2>
+          <p class="text-center">I like to try new things and have gone through various technologies and positions, from front-end development, designing in Photoshop to backend development.</p>
+          <section class="tech"><div class="tech-cols"><div class="logo"><img src="assets/images/logos/dev-angular.webp" alt="Angular" width="250" height="250" loading="lazy" /></div><div class="texts"><h3 class="title">Angular</h3><div class="desc">TypeScript JavaScript framework for building SPA applications</div><p>I have extensive experience with Angular, using it mainly to build robust and large SPA applications of various types and complexity.</p></div></div></section>
+          <section class="tech"><div class="tech-cols"><div class="logo"><img src="assets/images/logos/dev-nodejs.webp" alt="Node.js" width="250" height="256" loading="lazy" /></div><div class="texts"><h3 class="title">Node.js</h3><div class="desc">Cross-platform environment for developing powerful server applications</div><p>Node.js is my favorite technology. Its asynchronous model, which allows parallel code execution, is something other technologies can't match.</p></div></div></section>
+          <section class="tech"><div class="tech-cols"><div class="logo"><img src="assets/images/logos/dev-expressjs.webp" alt="Express.js" width="250" height="250" loading="lazy" /></div><div class="texts"><h3 class="title">Express.JS</h3><div class="desc">Minimalist framework for Node.js</div><p>Whenever I create more complex applications in Node.js, I use Express.js as the backbone of my Node.js application.</p></div></div></section>
+          <section class="tech"><div class="tech-cols"><div class="logo"><img src="assets/images/logos/dev-javascript.webp" alt="Javascript" width="250" height="250" loading="lazy" /></div><div class="texts"><h3 class="title">Javascript</h3><div class="desc">My favourite language</div><p>I also love JavaScript. I consider it a very powerful language in which you can create anything today.</p></div></div></section>
+          <div class="other-wrp"><h4 class="other-title">Other technologies and experience</h4><ul class="nes-list is-disc"><li>Automation via Puppeteer</li><li>Automated tests via Playwright</li><li>MongoDB</li><li>HTML / CSS</li><li>Phaser.js - 2D canvas / WebGL game engine</li><li>Photoshop</li><li>MySQL</li><li>Google Firestore</li></ul></div>
+          <div class="text-center up-btn"><button class="nes-btn is-primary scroll-up-btn"><span>Up</span><span style="display:inline-block;transform:rotateZ(90deg);margin:0 0 0 10px;">&lt;</span></button></div>
+        </div></div>
+      </div></div>
+    </div>
+
+    <!-- 4.2 About Me -->
+    <div id="modal-about" class="modal">
+      <div class="frame-wrp"><div class="frame-wrp-inner">
+        <button class="nes-btn is-error close-btn">×</button>
+        <div class="frame pixel-corners" style="max-width:900px"><div class="text-content">
+          <h2 class="big-title">About me</h2>
+          <div class="user-box pixel-corners-mini">
+            <div class="col img"><img src="assets/images/peter-oravec.webp" alt="Photo" width="450" height="450" loading="lazy" class="cv-photo pixel-corners-mini" /></div>
+            <div class="col info"><strong>Peter Oravec</strong><div class="mini">Front-end &amp; MEAN Stack developer</div></div>
+            <div class="col social"><a href="https://www.linkedin.com/in/peteroravec" target="_blank"><i class="nes-icon linkedin is-large"></i></a></div>
+          </div>
+          <div class="text-block"><div class="title">Bridging the Gap Between Design and Code</div><p>I'm Peter Oravec, a creative web developer with over 19 years of experience, currently based in Bratislava, Slovakia. My primary focus is on Front-End, JavaScript and Angular, but I also have deep experience as a full-stack developer, especially in the MEAN stack.</p></div>
+          <div class="text-block"><p>I feel most at home building Single Page Applications in Angular, especially those requiring complex animations and fluid interactivity. My strongest asset is my ability to act as the vital link between graphics, front-end, and backend.</p></div>
+          <div class="text-block"><p>I understand the visual language of designers and the structural needs of backend engineers, ensuring a flawless final product.</p></div>
+        </div></div>
+      </div></div>
+    </div>
+
+    <!-- 4.3 CV -->
+    <div id="modal-cv" class="modal">
+      <div class="frame-wrp"><div class="frame-wrp-inner">
+        <button class="nes-btn is-error close-btn">×</button>
+        <div class="frame pixel-corners" style="max-width:1000px"><div class="text-content">
+          <h2 class="big-title">Curriculum Vitae</h2>
+          <p>I have over 19 years of experience in web development. I would categorize myself as a front-end or JavaScript developer.</p>
+          <div class="cv" id="cv-timeline">
+            <!-- GAMO -->
+            <div class="cv-item"><div class="col emp-wrp"><div class="back-wrp"><img src="assets/images/logos/cv-gamo.webp" alt="GAMO" width="830" height="190" loading="lazy" class="emp-logo" /><div class="date">2007</div></div></div><div class="col data"><div class="company-title">GAMO a.s.</div><div class="job-title">IBM Lotus Notes developer, webdesigner</div><div class="job-desc">At GAMO I worked as a front-end developer who also did graphics. We programmed the backend in IBM Lotus Notes groupware technology.</div><button class="nes-btn cv-projects-toggle"><span>Show projects</span></button><div class="cv-projects-list"><div class="selected-projects">Selected projects:</div><div class="project"><div class="texts"><div class="title">BBSK Portal</div><div class="desc">Banská Bystrica self-governing region office</div></div></div><div class="project"><div class="texts"><div class="title">IRRR</div><div class="desc">Institute for Gender Equality</div></div></div><div class="project"><div class="texts"><div class="title">SLEK</div><div class="desc">Slovak Chamber of Pharmacists</div></div></div><div class="project"><div class="texts"><div class="title">KVLSR</div><div class="desc">Chamber of Veterinary Doctors of Slovakia</div></div><div class="link"><a href="https://www.kvlsr.sk" target="_blank" class="nes-btn is-bordered visit-btn">Visit</a></div></div><div class="project"><div class="texts"><div class="title">Kremnica Gags</div><div class="desc">European festival of humor and satire</div></div><div class="link"><a href="https://gagy.eu" target="_blank" class="nes-btn is-bordered visit-btn">Visit</a></div></div></div></div></div></div>
+            <!-- SCR -->
+            <div class="cv-item"><div class="col emp-wrp"><div class="back-wrp"><img src="assets/images/logos/cv-scr.webp" alt="SCR" width="708" height="133" loading="lazy" class="emp-logo" /><div class="date">2010</div></div></div><div class="col data"><div class="company-title">SCR</div><div class="job-title">Front-end developer, PHP developer</div><div class="job-desc">In the SCR team I worked mainly as a front-end developer and PHP programmer. A significant part of the work consisted of creative contests and FB applications.</div><button class="nes-btn cv-projects-toggle"><span>Show projects</span></button><div class="cv-projects-list"><div class="selected-projects">Selected projects:</div><div class="project"><div class="texts"><div class="title">TA3</div><div class="desc">TA3 television web portal</div></div></div><div class="project"><div class="texts"><div class="title">Radio Express</div><div class="desc">Radio Express web portal</div></div></div><div class="project"><div class="texts"><div class="title">Gas Familia</div><div class="desc">Famous alcohol producer website</div></div><div class="link"><a href="https://www.gasfamilia.com/" target="_blank" class="nes-btn is-bordered visit-btn">Visit</a></div></div></div></div></div></div>
+            <!-- Kremsa Digital -->
+            <div class="cv-item"><div class="col emp-wrp"><div class="back-wrp"><img src="assets/images/logos/cv-kremsa.webp" alt="Kremsa Digital" width="748" height="792" loading="lazy" class="emp-logo" /><div class="date">2012</div></div></div><div class="col data"><div class="company-title">Kremsa Digital</div><div class="job-title">MEAN stack developer, Angular &amp; Front-end developer</div><div class="job-desc">At Kremsa Digital I worked as a front-end developer in MEAN and LAMP stack on various projects from WordPress websites to large Angular projects.</div><button class="nes-btn cv-projects-toggle"><span>Show projects</span></button><div class="cv-projects-list"><div class="selected-projects">Selected projects:</div><div class="project"><div class="texts"><div class="title">Pioneer Projects CRM</div><div class="desc">Custom CRM system programmed in MEAN stack and Angular including a dynamic map cluster with MongoDB.</div></div></div><div class="project"><div class="texts"><div class="title">SMBee</div><div class="desc">Social media dashboard with drag-and-drop functionality, real-time metrics from 50+ sources.</div></div></div></div></div></div></div>
+            <!-- Bethereum -->
+            <div class="cv-item"><div class="col emp-wrp"><div class="back-wrp"><img src="assets/images/logos/cv-bethereum.webp" alt="Bethereum" width="373" height="418" loading="lazy" class="emp-logo" /><div class="date">2018</div></div></div><div class="col data"><div class="company-title">Bethereum</div><div class="job-title">Angular &amp; Front-end developer</div><div class="job-desc">Bethereum is a crypto betting platform for sports and e-sports. It's probably the most complex Angular project I've worked on.</div></div></div>
+            <!-- VUB Bank -->
+            <div class="cv-item last"><div class="col emp-wrp"><div class="back-wrp"><img src="assets/images/logos/cv-vub.webp" alt="VÚB Banka" width="210" height="210" loading="lazy" class="emp-logo" /><div class="date">2020</div></div></div><div class="col data"><div class="company-title"><span>VUB Bank</span><span class="mini"> Intesa Sanpaolo Group</span></div><div class="job-title">Angular &amp; Front-end developer</div><span class="nes-badge" style="font-size:12px;display:inline-block;margin:0 0 20px 0;line-height:25px"><span class="is-warning">Current position</span></span><div class="job-desc">My primary role at the bank is digitizing internal processes. If a process takes too long and can be replaced by an automated process, we program it.</div></div></div>
+          </div>
+          <div class="text-center"><button class="nes-btn is-primary scroll-up-btn"><span>Up</span><span style="display:inline-block;transform:rotateZ(90deg);margin:0 0 0 10px;">&lt;</span></button></div>
+        </div></div>
+      </div></div>
+    </div>
+
+    <!-- 4.4 Projects -->
+    <div id="modal-projects" class="modal">
+      <div class="frame-wrp"><div class="frame-wrp-inner">
+        <button class="nes-btn is-error close-btn">×</button>
+        <div class="frame pixel-corners" style="max-width:1000px"><div class="text-content">
+          <h2 class="big-title">Projects</h2>
+          <p>Here is a selection of my personal projects. Besides these experiments, I have a lot of work on other large projects under my belt.</p>
+          <div class="frame pixel-corners space-down"><article class="portfolio-item"><h3>eUTxO.org</h3><p class="subtitle">Visual Blockchain Explorer for Cardano</p><p>I have a general interest in crypto and blockchain technologies and this is one of my most complex side projects. It's a visual tool for Cardano cryptocurrency.</p><ul class="tech-used"><li>Serverless Node.js</li><li>Google Firestore DB</li><li>BlockFrost API</li><li>PhaserJS</li><li>Tailwind CSS</li></ul><a href="https://eutxo.org" target="_blank" class="nes-btn is-bordered visit-btn">Visit</a></article></div>
+          <div class="frame pixel-corners space-down"><article class="portfolio-item"><h3>Angular.sk</h3><p class="subtitle">Free online course for Angular 2+</p><p>Angular.sk is my side project. I created a series of instructional videos for beginners who want to learn working with Angular 2+.</p><a href="https://angular.sk" target="_blank" class="nes-btn is-bordered visit-btn">Visit</a></article></div>
+          <div class="frame pixel-corners space-down"><article class="portfolio-item"><h3>Peter Oravec portfolio v1</h3><p class="subtitle">100% human-coded, no AI</p><p>The first version of this pixel art portfolio, which I programmed entirely by myself without any help from artificial intelligence.</p><ul class="tech-used"><li>Angular</li><li>PhaserJS</li><li>Tiled</li></ul><a href="https://old.peteroravec.com" target="_blank" class="nes-btn is-bordered visit-btn">Visit</a></article></div>
+          <div class="text-center up-btn"><button class="nes-btn is-primary scroll-up-btn"><span>Up</span><span style="display:inline-block;transform:rotateZ(90deg);margin:0 0 0 10px;">&lt;</span></button></div>
+        </div></div>
+      </div></div>
+    </div>
+
+    <!-- 4.5 Contact -->
+    <div id="modal-contact" class="modal">
+      <div class="frame-wrp"><div class="frame-wrp-inner">
+        <button class="nes-btn is-error close-btn">×</button>
+        <div class="frame pixel-corners" style="max-width:700px"><div class="text-content">
+          <h2 class="big-title">Contact</h2>
+          <p class="text-center">Below you can find ways to get in touch with me.</p>
+          <div class="contact-methods">
+            <div class="contact-item"><div class="contact-icon"><i class="nes-icon linkedin is-medium"></i></div><div class="contact-text"><div class="label">LinkedIn</div><a href="https://www.linkedin.com/in/peteroravec" target="_blank">linkedin.com/in/peteroravec</a></div></div>
+            <div class="contact-item"><div class="contact-icon"><i class="nes-icon gmail is-medium"></i></div><div class="contact-text"><div class="label">Email</div><a href="mailto:p.oravec@gmail.com">p.oravec@gmail.com</a></div></div>
+          </div>
+        </div></div>
+      </div></div>
+    </div>
+
+    <!-- 4.6 Big Map -->
+    <div id="modal-bigmap" class="modal big-map-modal">
+      <div class="big-map-backdrop"></div>
+      <div class="frame-wrp"><div class="frame-wrp-inner">
+        <button class="nes-btn is-error close-btn">×</button>
+        <div class="big-map-wrapper">
+          <div class="big-map-monitor-overlay"></div>
+          <div class="big-map-legend">
+            <div class="legend-item"><span class="legend-icon icon-info"></span>Info</div>
+            <div class="legend-item"><span class="legend-icon icon-memo"></span>Memo</div>
+            <div class="legend-item"><span class="legend-icon icon-visited"></span>Visited</div>
+          </div>
+          <div class="big-map-container">
+            <img src="assets/maps/big-map.webp" alt="Map" width="187" height="187" loading="lazy" />
+            <div class="vhs-rgb-layer red"></div>
+            <div class="vhs-rgb-layer blue"></div>
+            <div class="vhs-scanline-bar"></div>
+            <div class="vhs-tracking-line"><div class="line-red"></div><div class="line-white"></div><div class="line-green"></div></div>
+            <div id="big-map-markers"></div>
+            <div id="big-map-player" class="pulse"></div>
+          </div>
+        </div>
+      </div></div>
+    </div>
+
+    <!-- 4.7 Under the Hood -->
+    <div id="modal-underhood" class="modal">
+      <div class="frame-wrp"><div class="frame-wrp-inner">
+        <button class="nes-btn is-error close-btn">×</button>
+        <div class="frame pixel-corners" style="max-width:1000px"><div class="text-content">
+          <div class="under-hood-header"><h2 class="under-hood-title">Under the Hood</h2><p class="under-hood-title2">How does this portfolio work?</p></div>
+          <div class="under-hood-layout">
+            <nav class="under-hood-nav">
+              <button class="under-hood-nav-item active" data-tab="arch">Architecture</button>
+              <button class="under-hood-nav-item" data-tab="phaser">Phaser.js</button>
+              <button class="under-hood-nav-item" data-tab="chunk">Chunk System</button>
+              <button class="under-hood-nav-item" data-tab="npc">NPC System</button>
+              <button class="under-hood-nav-item" data-tab="tiled">Tiled Editor</button>
+              <button class="under-hood-nav-item" data-tab="optimization">Optimization</button>
+            </nav>
+            <div class="under-hood-content">
+              <div class="under-hood-section" data-tab="arch"><h3>Architecture</h3><p>This portfolio is built on Phaser.js 3 game framework. The application is divided into multiple layers: the game scene, entity classes (Player, NPC, Monster), UI overlay, Web Workers for heavy computations and services for communication.</p><p>An interesting aspect is that UI and Phaser live side by side — the HTML layer renders above the canvas element with modals, menus and text as regular DOM, while the game runs in a GPU-accelerated WebGL context below.</p></div>
+              <div class="under-hood-section" data-tab="phaser" hidden><h3>Phaser.js</h3><p>At the heart of this portfolio is <a href="https://phaser.io" target="_blank">Phaser.js 3</a> — an open-source game framework for HTML5 games. Phaser can render via WebGL and Canvas 2D, handles physics, animations, sprite sheets, tile maps, audio and input from keyboard, mouse and touch.</p><p>In this project, Phaser manages the entire game loop — 60 times per second it updates player and NPC positions, evaluates map collisions, renders tile map layers, manages the camera and animates hundreds of sprites.</p></div>
+              <div class="under-hood-section" data-tab="chunk" hidden><h3>Chunk System</h3><p>The game map contains thousands of tiles (16×16 pixels), which would mean enormous memory consumption if loaded all at once. That's why the map is divided into small chunks — square blocks that are dynamically loaded and released based on the player's position.</p><p>The Chunk Manager tracks the camera position and calculates which chunks should be visible. When the player moves to a new area, chunks out of range are destroyed and new ones are created.</p></div>
+              <div class="under-hood-section" data-tab="npc" hidden><h3>NPC System</h3><p>NPC characters have their own viewport culling — when they leave the visible camera area, their sprite is completely destroyed. When they return to the field of view, they're recreated with full state.</p><p>Pathfinding runs in a Web Worker using the EasyStar.js library. NPC routes are pre-calculated, so the worker doesn't need to compute paths in real-time and the main thread stays unblocked.</p></div>
+              <div class="under-hood-section" data-tab="tiled" hidden><h3>Tiled Editor</h3><p>The entire game map is designed in Tiled — an open-source editor for creating tile-based maps. The map consists of multiple layers: terrain, buildings, decorations, collision layer and object layers for NPC routes, markers and zones.</p><p>After every map edit, a custom build pipeline processes the TMX file — cuts the map into chunks, extracts collision data, cleans unused tiles from tilesets and generates optimized JSON files for runtime.</p></div>
+              <div class="under-hood-section" data-tab="optimization" hidden><h3>Optimization</h3><p>Performance is a priority at every level. Chunk loading ensures only the player's surroundings are in memory. NPC viewport culling destroys and creates sprites based on visibility. Pathfinding runs in a separate Web Worker.</p><p>Assets are loaded lazily — textures, sounds and sprite sheets are downloaded only when needed. Images use the modern WebP format with PNG fallback. Fonts have pre-generated fallback metrics to prevent layout shifts.</p></div>
+            </div>
+          </div>
+        </div></div>
+      </div></div>
+    </div>
+  </main>
+
+  <!-- ===== 5. 横屏提示 ===== -->
+  <div class="landscape-overlay">
+    <img src="assets/images/ui/rotate-device.svg" alt="" width="80" height="80" loading="lazy" />
+    <span>Rotate your device</span>
+  </div>
+
+  <!-- ===== 6. JS ===== -->
+  <script src="assets/js/phaser.min.js"></script>
+  <script src="assets/js/modal-manager.js?v=20260806"></script>
+  <script src="assets/js/i18n.js"></script>
+  <script src="assets/js/chunk-manager.js"></script>
+  <script src="assets/js/player.js"></script>
+  <script src="assets/js/npc.js"></script>
+  <script src="assets/js/virtual-joystick.js"></script>
+  <script src="assets/js/game.js?v=20260806-4"></script>
+  <script src="assets/js/main.js?v=20260806-3"></script>
+</body>
+</html>

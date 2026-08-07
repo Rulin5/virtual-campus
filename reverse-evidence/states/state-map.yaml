@@ -1,0 +1,64 @@
+states:
+  - id: start-loading
+    description: Initial loading screen with animated Peter Oravec portrait
+    expected:
+      progress_visible: true
+      external_requests: 0
+  - id: start-play
+    description: Portfolio title and Play button
+    input: wait_for_loading
+    expected:
+      play_button_visible: true
+  - id: game-main
+    description: Main pixel map, player, NPCs, camera and HUD
+    input: click_play
+    expected:
+      canvas_visible: true
+      navigation_items: 6
+      map_size: 2240x2240
+  - id: player-move
+    description: Player moves while the camera follows
+    input: ArrowRight
+    expected:
+      player_position_changes: true
+  - id: modal-about
+    description: About panel opened from HUD or an interaction zone
+    input: click_about
+    expected:
+      modal_open: about
+  - id: modal-cv
+    description: Curriculum vitae panel
+    input: click_cv
+    expected:
+      modal_open: cv
+  - id: modal-projects
+    description: Portfolio projects and cards
+    input: click_projects
+    expected:
+      modal_open: projects
+  - id: modal-technologies
+    description: Technologies panel
+    input: click_technologies
+    expected:
+      modal_open: tech
+  - id: modal-map
+    description: Full map display with CRT treatment
+    input: click_map
+    expected:
+      modal_open: bigmap
+  - id: modal-underhood
+    description: Architecture and implementation notes
+    input: click_memo
+    expected:
+      modal_open: underhood
+  - id: modal-contact
+    description: Contact links
+    input: click_contact
+    expected:
+      modal_open: contact
+  - id: mobile-touch
+    description: Touch joystick is available on touch devices
+    viewport: 844x390
+    expected:
+      canvas_visible: true
+      touch_controls_enabled: true

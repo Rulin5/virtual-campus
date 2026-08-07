@@ -1,0 +1,1437 @@
+{
+  "assets": [
+    {
+      "contentType": "text/css",
+      "id": "461c4b0d80be7366",
+      "kind": "stylesheet",
+      "name": "css2",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\461c4b0d80be7366",
+      "url": "https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap"
+    },
+    {
+      "contentType": "image/gif",
+      "id": "6a3ee250162295e3",
+      "kind": "image",
+      "name": "peter-oravec.gif",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\6a3ee250162295e3.gif",
+      "url": "https://peteroravec.com/assets/images/peter-oravec.gif"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "4cc327dd75b3c008",
+      "kind": "image",
+      "name": "peteroravec-logo.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\4cc327dd75b3c008.webp",
+      "url": "https://peteroravec.com/assets/images/peteroravec-logo.webp"
+    },
+    {
+      "contentType": "text/css",
+      "id": "fe85ef8a677fcf69",
+      "kind": "stylesheet",
+      "name": "styles-DVTBSD34.css",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\fe85ef8a677fcf69.css",
+      "url": "https://peteroravec.com/styles-DVTBSD34.css"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "b7d43ff353e57b61",
+      "kind": "image",
+      "name": "dev-angular.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\b7d43ff353e57b61.webp",
+      "url": "https://peteroravec.com/assets/images/logos/dev-angular.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "7217ca8145e63030",
+      "kind": "image",
+      "name": "dev-nodejs.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\7217ca8145e63030.webp",
+      "url": "https://peteroravec.com/assets/images/logos/dev-nodejs.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "e813d9be84e37616",
+      "kind": "image",
+      "name": "dev-expressjs.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\e813d9be84e37616.webp",
+      "url": "https://peteroravec.com/assets/images/logos/dev-expressjs.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "a6a00af6ef53eb80",
+      "kind": "image",
+      "name": "dev-javascript.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\a6a00af6ef53eb80.webp",
+      "url": "https://peteroravec.com/assets/images/logos/dev-javascript.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "68f106d2672098c9",
+      "kind": "image",
+      "name": "peter-oravec.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\68f106d2672098c9.webp",
+      "url": "https://peteroravec.com/assets/images/peter-oravec.webp"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "8996de49cc6d5ca2",
+      "kind": "image",
+      "name": "rotate-device.svg",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\8996de49cc6d5ca2.svg",
+      "url": "https://peteroravec.com/assets/images/ui/rotate-device.svg"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "4c3bd6680b56a9cb",
+      "kind": "image",
+      "name": "cv-gamo.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\4c3bd6680b56a9cb.webp",
+      "url": "https://peteroravec.com/assets/images/logos/cv-gamo.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "1d2c1bb72229f2cb",
+      "kind": "image",
+      "name": "cv-scr.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\1d2c1bb72229f2cb.webp",
+      "url": "https://peteroravec.com/assets/images/logos/cv-scr.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "5ee7bda24f642905",
+      "kind": "image",
+      "name": "cv-kremsa.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\5ee7bda24f642905.webp",
+      "url": "https://peteroravec.com/assets/images/logos/cv-kremsa.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "fc2f19dd89b235a2",
+      "kind": "image",
+      "name": "cv-bethereum.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\fc2f19dd89b235a2.webp",
+      "url": "https://peteroravec.com/assets/images/logos/cv-bethereum.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "46f858a44ff11e35",
+      "kind": "image",
+      "name": "cv-vub.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\46f858a44ff11e35.webp",
+      "url": "https://peteroravec.com/assets/images/logos/cv-vub.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "8e94dcd6c7ccf528",
+      "kind": "image",
+      "name": "big-map.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\8e94dcd6c7ccf528.webp",
+      "url": "https://peteroravec.com/assets/maps/big-map.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "175e0fb438523906",
+      "kind": "image",
+      "name": "card1_base.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\175e0fb438523906.webp",
+      "url": "https://peteroravec.com/assets/images/cards/card1_base.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "481f4e49a4921611",
+      "kind": "image",
+      "name": "card2_base.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\481f4e49a4921611.webp",
+      "url": "https://peteroravec.com/assets/images/cards/card2_base.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "9a5ffcad9ae7d1b4",
+      "kind": "image",
+      "name": "card3_base.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\9a5ffcad9ae7d1b4.webp",
+      "url": "https://peteroravec.com/assets/images/cards/card3_base.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "f1a3c2abec7d1a59",
+      "kind": "image",
+      "name": "card4_base.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\f1a3c2abec7d1a59.webp",
+      "url": "https://peteroravec.com/assets/images/cards/card4_base.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "3d857855afd26630",
+      "kind": "image",
+      "name": "card5_base.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\3d857855afd26630.webp",
+      "url": "https://peteroravec.com/assets/images/cards/card5_base.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "e6fae81f0aca8c88",
+      "kind": "image",
+      "name": "card6_base.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\e6fae81f0aca8c88.webp",
+      "url": "https://peteroravec.com/assets/images/cards/card6_base.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "03bdca97695b85ea",
+      "kind": "image",
+      "name": "pointer-hand.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\03bdca97695b85ea.webp",
+      "url": "https://peteroravec.com/assets/images/ui/pointer-hand.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "887c3acb6f6c1986",
+      "kind": "image",
+      "name": "exterior-small.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\887c3acb6f6c1986.webp",
+      "url": "https://peteroravec.com/assets/maps/exterior-small.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "c0eccedde3403bd3",
+      "kind": "image",
+      "name": "collisions-objects.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\c0eccedde3403bd3.webp",
+      "url": "https://peteroravec.com/assets/maps/collisions-objects.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "b652d39028b488c9",
+      "kind": "image",
+      "name": "tileset-particles.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\b652d39028b488c9.webp",
+      "url": "https://peteroravec.com/assets/maps/tileset-particles.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "1e0a4beff20e75d0",
+      "kind": "image",
+      "name": "joystick-ball.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\1e0a4beff20e75d0.webp",
+      "url": "https://peteroravec.com/assets/images/ui/joystick-ball.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "28e6a54e2eb2e22f",
+      "kind": "image",
+      "name": "joystick-base.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\28e6a54e2eb2e22f.webp",
+      "url": "https://peteroravec.com/assets/images/ui/joystick-base.webp"
+    },
+    {
+      "contentType": "image/png",
+      "id": "eea88a3671bb0e2c",
+      "kind": "image",
+      "name": "sunburn.png",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\eea88a3671bb0e2c.png",
+      "url": "https://peteroravec.com/assets/sprites/sunburn.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "6cb9e16ccc7d3643",
+      "kind": "image",
+      "name": "vortex.png",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\6cb9e16ccc7d3643.png",
+      "url": "https://peteroravec.com/assets/sprites/vortex.png"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "1dc9b2b7a6363b88",
+      "kind": "image",
+      "name": "car1.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\1dc9b2b7a6363b88.webp",
+      "url": "https://peteroravec.com/assets/sprites/cars/car1.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "5120148cfab69fd8",
+      "kind": "image",
+      "name": "waves.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\5120148cfab69fd8.webp",
+      "url": "https://peteroravec.com/assets/sprites/waves.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "66659e0297ff16ad",
+      "kind": "image",
+      "name": "smoke-green.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\66659e0297ff16ad.webp",
+      "url": "https://peteroravec.com/assets/sprites/smoke-green.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "70170645c4d3938a",
+      "kind": "image",
+      "name": "smoke-white.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\70170645c4d3938a.webp",
+      "url": "https://peteroravec.com/assets/sprites/smoke-white.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "731caaf1b9ec93b9",
+      "kind": "image",
+      "name": "smoke-blue.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\731caaf1b9ec93b9.webp",
+      "url": "https://peteroravec.com/assets/sprites/smoke-blue.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "31cebcfcc2eb6da1",
+      "kind": "image",
+      "name": "windturbine.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\31cebcfcc2eb6da1.webp",
+      "url": "https://peteroravec.com/assets/sprites/windturbine.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "64e112a834a67aaf",
+      "kind": "image",
+      "name": "cloud.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\64e112a834a67aaf.webp",
+      "url": "https://peteroravec.com/assets/sprites/cloud.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "cd44d59641e338da",
+      "kind": "image",
+      "name": "cloud2.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\cd44d59641e338da.webp",
+      "url": "https://peteroravec.com/assets/sprites/cloud2.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "4ec66cc42f2e8142",
+      "kind": "image",
+      "name": "ai-transparent.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\4ec66cc42f2e8142.webp",
+      "url": "https://peteroravec.com/assets/sprites/ai-transparent.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "01d6877f85907325",
+      "kind": "image",
+      "name": "ai-transparent2.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\01d6877f85907325.webp",
+      "url": "https://peteroravec.com/assets/sprites/ai-transparent2.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "84bafe85c44c337b",
+      "kind": "image",
+      "name": "instructions-keyboard.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\84bafe85c44c337b.webp",
+      "url": "https://peteroravec.com/assets/images/ui/instructions-keyboard.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "2cedc5f38c7acfb2",
+      "kind": "image",
+      "name": "flares.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\2cedc5f38c7acfb2.webp",
+      "url": "https://peteroravec.com/assets/sprites/flares.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "acb12c93f35be5fc",
+      "kind": "image",
+      "name": "player.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\acb12c93f35be5fc.webp",
+      "url": "https://peteroravec.com/assets/sprites/player.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "c218f96c81cdb9ca",
+      "kind": "image",
+      "name": "player-eating.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\c218f96c81cdb9ca.webp",
+      "url": "https://peteroravec.com/assets/sprites/player-eating.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "fb1b808ae51cb46d",
+      "kind": "image",
+      "name": "player-scratching.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\fb1b808ae51cb46d.webp",
+      "url": "https://peteroravec.com/assets/sprites/player-scratching.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "c2ab4392daf79948",
+      "kind": "image",
+      "name": "player-tying-shoe.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\c2ab4392daf79948.webp",
+      "url": "https://peteroravec.com/assets/sprites/player-tying-shoe.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "b4a0a4e854d42370",
+      "kind": "image",
+      "name": "player-sitting.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\b4a0a4e854d42370.webp",
+      "url": "https://peteroravec.com/assets/sprites/player-sitting.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "9cd40a2ab224fd19",
+      "kind": "image",
+      "name": "player-beach.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\9cd40a2ab224fd19.webp",
+      "url": "https://peteroravec.com/assets/sprites/player-beach.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "b2ba5cd77290ea9d",
+      "kind": "image",
+      "name": "player-holding.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\b2ba5cd77290ea9d.webp",
+      "url": "https://peteroravec.com/assets/sprites/player-holding.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "204919d12d12bd10",
+      "kind": "image",
+      "name": "car-holding.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\204919d12d12bd10.webp",
+      "url": "https://peteroravec.com/assets/sprites/car-holding.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "ef255ea6e83b17a2",
+      "kind": "image",
+      "name": "npc-holding.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\ef255ea6e83b17a2.webp",
+      "url": "https://peteroravec.com/assets/sprites/npc-holding.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "7accfa8a56ff5333",
+      "kind": "image",
+      "name": "player-clothes-off.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\7accfa8a56ff5333.webp",
+      "url": "https://peteroravec.com/assets/sprites/player-clothes-off.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "91141c253d3a0372",
+      "kind": "image",
+      "name": "npc-scientist.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\91141c253d3a0372.webp",
+      "url": "https://peteroravec.com/assets/sprites/npc-scientist.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "6652b132f698cea8",
+      "kind": "image",
+      "name": "npc-scientist2.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\6652b132f698cea8.webp",
+      "url": "https://peteroravec.com/assets/sprites/npc-scientist2.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "d42ac0eebcd090d4",
+      "kind": "image",
+      "name": "npc-man.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\d42ac0eebcd090d4.webp",
+      "url": "https://peteroravec.com/assets/sprites/npc-man.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "9583120f3b1b2bc6",
+      "kind": "image",
+      "name": "npc-woman.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\9583120f3b1b2bc6.webp",
+      "url": "https://peteroravec.com/assets/sprites/npc-woman.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "a917d32b523b3ac3",
+      "kind": "image",
+      "name": "npc-woman2.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\a917d32b523b3ac3.webp",
+      "url": "https://peteroravec.com/assets/sprites/npc-woman2.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "6ddfd064681dac36",
+      "kind": "image",
+      "name": "npc-woman3.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\6ddfd064681dac36.webp",
+      "url": "https://peteroravec.com/assets/sprites/npc-woman3.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "07ef26bec23e3efa",
+      "kind": "image",
+      "name": "npc-woman4.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\07ef26bec23e3efa.webp",
+      "url": "https://peteroravec.com/assets/sprites/npc-woman4.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "c32b873b042980ca",
+      "kind": "image",
+      "name": "npc-woman5.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\c32b873b042980ca.webp",
+      "url": "https://peteroravec.com/assets/sprites/npc-woman5.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "9bf7f54bed2709c6",
+      "kind": "image",
+      "name": "npc-woman5-idle.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\9bf7f54bed2709c6.webp",
+      "url": "https://peteroravec.com/assets/sprites/npc-woman5-idle.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "9c5dffa1e4ea257f",
+      "kind": "image",
+      "name": "npc-woman6.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\9c5dffa1e4ea257f.webp",
+      "url": "https://peteroravec.com/assets/sprites/npc-woman6.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "1d6941cf61f26488",
+      "kind": "image",
+      "name": "npc-woman7.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\1d6941cf61f26488.webp",
+      "url": "https://peteroravec.com/assets/sprites/npc-woman7.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "7fd20faca29ee491",
+      "kind": "image",
+      "name": "npc-woman8.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\7fd20faca29ee491.webp",
+      "url": "https://peteroravec.com/assets/sprites/npc-woman8.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "5b347f31ac6bd30e",
+      "kind": "image",
+      "name": "npc-woman-beach.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\5b347f31ac6bd30e.webp",
+      "url": "https://peteroravec.com/assets/sprites/npc-woman-beach.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "2953f6e1765d4cde",
+      "kind": "image",
+      "name": "npc-woman-beach2.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\2953f6e1765d4cde.webp",
+      "url": "https://peteroravec.com/assets/sprites/npc-woman-beach2.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "f2fdcebea2723865",
+      "kind": "image",
+      "name": "npc-man-beach.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\f2fdcebea2723865.webp",
+      "url": "https://peteroravec.com/assets/sprites/npc-man-beach.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "9904a2824150301c",
+      "kind": "image",
+      "name": "npc-man-beach2.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\9904a2824150301c.webp",
+      "url": "https://peteroravec.com/assets/sprites/npc-man-beach2.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "cec7be2c5bd7fd12",
+      "kind": "image",
+      "name": "npc-man2.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\cec7be2c5bd7fd12.webp",
+      "url": "https://peteroravec.com/assets/sprites/npc-man2.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "1ad664aa3af9ebc0",
+      "kind": "image",
+      "name": "npc-man3.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\1ad664aa3af9ebc0.webp",
+      "url": "https://peteroravec.com/assets/sprites/npc-man3.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "c45e2ddf56568f15",
+      "kind": "image",
+      "name": "npc-man4.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\c45e2ddf56568f15.webp",
+      "url": "https://peteroravec.com/assets/sprites/npc-man4.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "483f471a5b995ebc",
+      "kind": "image",
+      "name": "npc-man5.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\483f471a5b995ebc.webp",
+      "url": "https://peteroravec.com/assets/sprites/npc-man5.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "fb855313926f3953",
+      "kind": "image",
+      "name": "npc-man6.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\fb855313926f3953.webp",
+      "url": "https://peteroravec.com/assets/sprites/npc-man6.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "956d32adc393d26f",
+      "kind": "image",
+      "name": "npc-man7.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\956d32adc393d26f.webp",
+      "url": "https://peteroravec.com/assets/sprites/npc-man7.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "4fb68073db9c652c",
+      "kind": "image",
+      "name": "npc-man8.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\4fb68073db9c652c.webp",
+      "url": "https://peteroravec.com/assets/sprites/npc-man8.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "634810beff1992c6",
+      "kind": "image",
+      "name": "npc-man9.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\634810beff1992c6.webp",
+      "url": "https://peteroravec.com/assets/sprites/npc-man9.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "213f628bcb75840c",
+      "kind": "image",
+      "name": "npc-man10.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\213f628bcb75840c.webp",
+      "url": "https://peteroravec.com/assets/sprites/npc-man10.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "a755e03922b3861c",
+      "kind": "image",
+      "name": "npc-hazmat-suit.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\a755e03922b3861c.webp",
+      "url": "https://peteroravec.com/assets/sprites/npc-hazmat-suit.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "c3c360d295f06489",
+      "kind": "image",
+      "name": "npc-monk.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\c3c360d295f06489.webp",
+      "url": "https://peteroravec.com/assets/sprites/npc-monk.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "ea35a6fd391f5946",
+      "kind": "image",
+      "name": "npc-cat.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\ea35a6fd391f5946.webp",
+      "url": "https://peteroravec.com/assets/sprites/npc-cat.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "81de84ad3b3b0e39",
+      "kind": "image",
+      "name": "npc-cat2.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\81de84ad3b3b0e39.webp",
+      "url": "https://peteroravec.com/assets/sprites/npc-cat2.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "b2aec64791df7f08",
+      "kind": "image",
+      "name": "npc-dog.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\b2aec64791df7f08.webp",
+      "url": "https://peteroravec.com/assets/sprites/npc-dog.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "c652fd62af89e075",
+      "kind": "image",
+      "name": "npc-dog2.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\c652fd62af89e075.webp",
+      "url": "https://peteroravec.com/assets/sprites/npc-dog2.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "f41272f75d1c9626",
+      "kind": "image",
+      "name": "train.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\f41272f75d1c9626.webp",
+      "url": "https://peteroravec.com/assets/sprites/train.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "f3fd0c716aa1cef2",
+      "kind": "image",
+      "name": "npc-bug.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\f3fd0c716aa1cef2.webp",
+      "url": "https://peteroravec.com/assets/sprites/npc-bug.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "e144fad2e42aec1a",
+      "kind": "image",
+      "name": "npc-bug2.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\e144fad2e42aec1a.webp",
+      "url": "https://peteroravec.com/assets/sprites/npc-bug2.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "0477e1618f6a1ac0",
+      "kind": "image",
+      "name": "npc-ghost.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\0477e1618f6a1ac0.webp",
+      "url": "https://peteroravec.com/assets/sprites/npc-ghost.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "5b5c9d4c1c000ae1",
+      "kind": "image",
+      "name": "npc-dj1.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\5b5c9d4c1c000ae1.webp",
+      "url": "https://peteroravec.com/assets/sprites/npc-dj1.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "fee2826d2fe576ca",
+      "kind": "image",
+      "name": "npc-dj2.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\fee2826d2fe576ca.webp",
+      "url": "https://peteroravec.com/assets/sprites/npc-dj2.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "df2d317b0275abd6",
+      "kind": "image",
+      "name": "npc-special-reading.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\df2d317b0275abd6.webp",
+      "url": "https://peteroravec.com/assets/sprites/special/npc-special-reading.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "02f6a5b756f25202",
+      "kind": "image",
+      "name": "npc-special-eating.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\02f6a5b756f25202.webp",
+      "url": "https://peteroravec.com/assets/sprites/special/npc-special-eating.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "183aaad8720696f0",
+      "kind": "image",
+      "name": "npc-cat-licking.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\183aaad8720696f0.webp",
+      "url": "https://peteroravec.com/assets/sprites/special/npc-cat-licking.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "805cb69e99539884",
+      "kind": "image",
+      "name": "npc-sprayer.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\805cb69e99539884.webp",
+      "url": "https://peteroravec.com/assets/sprites/npc-sprayer.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "aae7db8e50b73122",
+      "kind": "image",
+      "name": "npc-sprayer-running.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\aae7db8e50b73122.webp",
+      "url": "https://peteroravec.com/assets/sprites/npc-sprayer-running.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "193fd0b6c520d9f7",
+      "kind": "image",
+      "name": "npc_footballer_red.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\193fd0b6c520d9f7.webp",
+      "url": "https://peteroravec.com/assets/sprites/npc_footballer_red.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "3c02142738a13483",
+      "kind": "image",
+      "name": "npc_footballer_blue.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\3c02142738a13483.webp",
+      "url": "https://peteroravec.com/assets/sprites/npc_footballer_blue.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "7ca1c62c2d42f77b",
+      "kind": "image",
+      "name": "npc-dancing-down.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\7ca1c62c2d42f77b.webp",
+      "url": "https://peteroravec.com/assets/sprites/special/npc-dancing-down.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "5f6896714da9e794",
+      "kind": "image",
+      "name": "npc-dancing-left.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\5f6896714da9e794.webp",
+      "url": "https://peteroravec.com/assets/sprites/special/npc-dancing-left.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "d9b65cf6897c3181",
+      "kind": "image",
+      "name": "npc-dancing-right.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\d9b65cf6897c3181.webp",
+      "url": "https://peteroravec.com/assets/sprites/special/npc-dancing-right.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "144750a7828b7234",
+      "kind": "image",
+      "name": "npc-dancing-up.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\144750a7828b7234.webp",
+      "url": "https://peteroravec.com/assets/sprites/special/npc-dancing-up.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "387b81c46ed26006",
+      "kind": "image",
+      "name": "rat.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\387b81c46ed26006.webp",
+      "url": "https://peteroravec.com/assets/sprites/rat.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "6682cbeb96724ca0",
+      "kind": "image",
+      "name": "npc_protester_rising.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\6682cbeb96724ca0.webp",
+      "url": "https://peteroravec.com/assets/sprites/npc_protester_rising.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "78331fed5af6cb45",
+      "kind": "image",
+      "name": "full-map.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\78331fed5af6cb45.webp",
+      "url": "https://peteroravec.com/assets/maps/full-map.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "8ce0f2475fffa75f",
+      "kind": "image",
+      "name": "bird.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\8ce0f2475fffa75f.webp",
+      "url": "https://peteroravec.com/assets/sprites/bird.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "99ef501835795e8a",
+      "kind": "image",
+      "name": "lizard.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\99ef501835795e8a.webp",
+      "url": "https://peteroravec.com/assets/sprites/lizard.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "f895cceca55414eb",
+      "kind": "image",
+      "name": "rabbit.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\f895cceca55414eb.webp",
+      "url": "https://peteroravec.com/assets/sprites/rabbit.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "2f4784f0013e0d21",
+      "kind": "image",
+      "name": "snake.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\2f4784f0013e0d21.webp",
+      "url": "https://peteroravec.com/assets/sprites/snake.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "337f03c0bfe18d80",
+      "kind": "image",
+      "name": "fish.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\337f03c0bfe18d80.webp",
+      "url": "https://peteroravec.com/assets/sprites/fish.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "7f63aa0b16101f03",
+      "kind": "image",
+      "name": "duck.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\7f63aa0b16101f03.webp",
+      "url": "https://peteroravec.com/assets/sprites/duck.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "b78b44dcead2b453",
+      "kind": "image",
+      "name": "butterfly.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\b78b44dcead2b453.webp",
+      "url": "https://peteroravec.com/assets/sprites/butterfly.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "e18c664526682dc7",
+      "kind": "image",
+      "name": "car2.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\e18c664526682dc7.webp",
+      "url": "https://peteroravec.com/assets/sprites/cars/car2.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "ce4ed4661ea1e3aa",
+      "kind": "image",
+      "name": "car3.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\ce4ed4661ea1e3aa.webp",
+      "url": "https://peteroravec.com/assets/sprites/cars/car3.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "ac89b2349a16e002",
+      "kind": "image",
+      "name": "car4.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\ac89b2349a16e002.webp",
+      "url": "https://peteroravec.com/assets/sprites/cars/car4.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "6d345f1a2c19f366",
+      "kind": "image",
+      "name": "car5.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\6d345f1a2c19f366.webp",
+      "url": "https://peteroravec.com/assets/sprites/cars/car5.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "7d233baa69381eba",
+      "kind": "image",
+      "name": "car6.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\7d233baa69381eba.webp",
+      "url": "https://peteroravec.com/assets/sprites/cars/car6.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "9ff47d0de78c6a43",
+      "kind": "image",
+      "name": "car7.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\9ff47d0de78c6a43.webp",
+      "url": "https://peteroravec.com/assets/sprites/cars/car7.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "0e7bcac7dca560f2",
+      "kind": "image",
+      "name": "car8.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\0e7bcac7dca560f2.webp",
+      "url": "https://peteroravec.com/assets/sprites/cars/car8.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "74e8a6d2f3a7bb09",
+      "kind": "image",
+      "name": "car9.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\74e8a6d2f3a7bb09.webp",
+      "url": "https://peteroravec.com/assets/sprites/cars/car9.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "db71d60a1a274c7b",
+      "kind": "image",
+      "name": "car10.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\db71d60a1a274c7b.webp",
+      "url": "https://peteroravec.com/assets/sprites/cars/car10.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "185900560c5f3ff1",
+      "kind": "image",
+      "name": "car11.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\185900560c5f3ff1.webp",
+      "url": "https://peteroravec.com/assets/sprites/cars/car11.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "8f45014370499018",
+      "kind": "image",
+      "name": "car-police.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\8f45014370499018.webp",
+      "url": "https://peteroravec.com/assets/sprites/cars/car-police.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "637f41aa84d8f539",
+      "kind": "image",
+      "name": "car1-brakes.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\637f41aa84d8f539.webp",
+      "url": "https://peteroravec.com/assets/sprites/cars/car1-brakes.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "1fc8e36cff17d3bd",
+      "kind": "image",
+      "name": "car1-brakes-side.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\1fc8e36cff17d3bd.webp",
+      "url": "https://peteroravec.com/assets/sprites/cars/car1-brakes-side.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "3f6ee23d771463c1",
+      "kind": "image",
+      "name": "car2-brakes.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\3f6ee23d771463c1.webp",
+      "url": "https://peteroravec.com/assets/sprites/cars/car2-brakes.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "626a469eb9d73a5c",
+      "kind": "image",
+      "name": "car2-brakes-side.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\626a469eb9d73a5c.webp",
+      "url": "https://peteroravec.com/assets/sprites/cars/car2-brakes-side.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "536926e2763cb4f8",
+      "kind": "image",
+      "name": "car3-brakes.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\536926e2763cb4f8.webp",
+      "url": "https://peteroravec.com/assets/sprites/cars/car3-brakes.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "310023ccb882be62",
+      "kind": "image",
+      "name": "car3-brakes-side.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\310023ccb882be62.webp",
+      "url": "https://peteroravec.com/assets/sprites/cars/car3-brakes-side.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "c3ac62d2ab5b71cb",
+      "kind": "image",
+      "name": "car4-brakes.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\c3ac62d2ab5b71cb.webp",
+      "url": "https://peteroravec.com/assets/sprites/cars/car4-brakes.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "2d4148582220fd61",
+      "kind": "image",
+      "name": "car5-brakes.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\2d4148582220fd61.webp",
+      "url": "https://peteroravec.com/assets/sprites/cars/car5-brakes.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "76bcb5aa508ea141",
+      "kind": "image",
+      "name": "car5-brakes-side.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\76bcb5aa508ea141.webp",
+      "url": "https://peteroravec.com/assets/sprites/cars/car5-brakes-side.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "e856b4d4d3798971",
+      "kind": "image",
+      "name": "car6-brakes.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\e856b4d4d3798971.webp",
+      "url": "https://peteroravec.com/assets/sprites/cars/car6-brakes.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "1e6398c8b6c5345d",
+      "kind": "image",
+      "name": "car6-brakes-side.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\1e6398c8b6c5345d.webp",
+      "url": "https://peteroravec.com/assets/sprites/cars/car6-brakes-side.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "af5aa47448e255f2",
+      "kind": "image",
+      "name": "car7-brakes.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\af5aa47448e255f2.webp",
+      "url": "https://peteroravec.com/assets/sprites/cars/car7-brakes.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "3fd4d84da0d84af9",
+      "kind": "image",
+      "name": "car7-brakes-side.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\3fd4d84da0d84af9.webp",
+      "url": "https://peteroravec.com/assets/sprites/cars/car7-brakes-side.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "d479e0dccce691e7",
+      "kind": "image",
+      "name": "car8-brakes.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\d479e0dccce691e7.webp",
+      "url": "https://peteroravec.com/assets/sprites/cars/car8-brakes.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "505ec70c7c08c46c",
+      "kind": "image",
+      "name": "car8-brakes-side.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\505ec70c7c08c46c.webp",
+      "url": "https://peteroravec.com/assets/sprites/cars/car8-brakes-side.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "09e95e3074ca4128",
+      "kind": "image",
+      "name": "car9-brakes.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\09e95e3074ca4128.webp",
+      "url": "https://peteroravec.com/assets/sprites/cars/car9-brakes.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "36a42a39a0b104a9",
+      "kind": "image",
+      "name": "car9-brakes-side.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\36a42a39a0b104a9.webp",
+      "url": "https://peteroravec.com/assets/sprites/cars/car9-brakes-side.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "263a8d7b543d9127",
+      "kind": "image",
+      "name": "car10-brakes.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\263a8d7b543d9127.webp",
+      "url": "https://peteroravec.com/assets/sprites/cars/car10-brakes.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "18ef337666d50020",
+      "kind": "image",
+      "name": "car10-brakes-side.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\18ef337666d50020.webp",
+      "url": "https://peteroravec.com/assets/sprites/cars/car10-brakes-side.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "274e249d13ac628f",
+      "kind": "image",
+      "name": "car11-brakes.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\274e249d13ac628f.webp",
+      "url": "https://peteroravec.com/assets/sprites/cars/car11-brakes.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "f15bda8ceb347fe2",
+      "kind": "image",
+      "name": "car11-brakes-side.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\f15bda8ceb347fe2.webp",
+      "url": "https://peteroravec.com/assets/sprites/cars/car11-brakes-side.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "972048c6fa5d6f10",
+      "kind": "image",
+      "name": "car-police-brakes.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\972048c6fa5d6f10.webp",
+      "url": "https://peteroravec.com/assets/sprites/cars/car-police-brakes.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "14e0e7cddb64436e",
+      "kind": "image",
+      "name": "car-police-brakes-side.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\14e0e7cddb64436e.webp",
+      "url": "https://peteroravec.com/assets/sprites/cars/car-police-brakes-side.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "004fb3f665f5f771",
+      "kind": "image",
+      "name": "car1-wheel.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\004fb3f665f5f771.webp",
+      "url": "https://peteroravec.com/assets/sprites/cars/car1-wheel.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "34007f60497312d1",
+      "kind": "image",
+      "name": "car2-wheel.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\34007f60497312d1.webp",
+      "url": "https://peteroravec.com/assets/sprites/cars/car2-wheel.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "c4e8df7bc9012b9a",
+      "kind": "image",
+      "name": "car3-wheel.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\c4e8df7bc9012b9a.webp",
+      "url": "https://peteroravec.com/assets/sprites/cars/car3-wheel.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "09818922ed9f515f",
+      "kind": "image",
+      "name": "car4-wheel.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\09818922ed9f515f.webp",
+      "url": "https://peteroravec.com/assets/sprites/cars/car4-wheel.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "5a1e8892053c9343",
+      "kind": "image",
+      "name": "car5-wheel.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\5a1e8892053c9343.webp",
+      "url": "https://peteroravec.com/assets/sprites/cars/car5-wheel.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "9b20e6e3bb52950c",
+      "kind": "image",
+      "name": "car6-wheel.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\9b20e6e3bb52950c.webp",
+      "url": "https://peteroravec.com/assets/sprites/cars/car6-wheel.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "dedcf5f9f6383e2a",
+      "kind": "image",
+      "name": "car7-wheel.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\dedcf5f9f6383e2a.webp",
+      "url": "https://peteroravec.com/assets/sprites/cars/car7-wheel.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "11cad977c2b8ce4a",
+      "kind": "image",
+      "name": "car8-wheel.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\11cad977c2b8ce4a.webp",
+      "url": "https://peteroravec.com/assets/sprites/cars/car8-wheel.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "94d854f163601d60",
+      "kind": "image",
+      "name": "car9-wheel.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\94d854f163601d60.webp",
+      "url": "https://peteroravec.com/assets/sprites/cars/car9-wheel.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "7a426e15d81cf0b9",
+      "kind": "image",
+      "name": "car10-wheel.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\7a426e15d81cf0b9.webp",
+      "url": "https://peteroravec.com/assets/sprites/cars/car10-wheel.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "bf1b9949d21da6d9",
+      "kind": "image",
+      "name": "car11-wheel.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\bf1b9949d21da6d9.webp",
+      "url": "https://peteroravec.com/assets/sprites/cars/car11-wheel.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "b0015540369ca9dd",
+      "kind": "image",
+      "name": "car-police-wheel.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\b0015540369ca9dd.webp",
+      "url": "https://peteroravec.com/assets/sprites/cars/car-police-wheel.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "bcf451a365557410",
+      "kind": "image",
+      "name": "npc-helicopter.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\bcf451a365557410.webp",
+      "url": "https://peteroravec.com/assets/sprites/npc-helicopter.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "312875183b33aacf",
+      "kind": "image",
+      "name": "npc-helicopter-rotor-back.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\312875183b33aacf.webp",
+      "url": "https://peteroravec.com/assets/sprites/npc-helicopter-rotor-back.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "0ee30f5e41b0938b",
+      "kind": "image",
+      "name": "npc-helicopter-rotor-main.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\0ee30f5e41b0938b.webp",
+      "url": "https://peteroravec.com/assets/sprites/npc-helicopter-rotor-main.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "813d8bf46f2c2c2b",
+      "kind": "image",
+      "name": "npc-helicopter-high-resolution.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\813d8bf46f2c2c2b.webp",
+      "url": "https://peteroravec.com/assets/sprites/npc-helicopter-high-resolution.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "eb856ada8ff50538",
+      "kind": "image",
+      "name": "dev-css.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\eb856ada8ff50538.webp",
+      "url": "https://peteroravec.com/assets/images/logos/dev-css.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "28512de8b53cd0cd",
+      "kind": "image",
+      "name": "dev-wordpress.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\28512de8b53cd0cd.webp",
+      "url": "https://peteroravec.com/assets/images/logos/dev-wordpress.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "0aed83882eac5e60",
+      "kind": "image",
+      "name": "dev-lotus-notes.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\0aed83882eac5e60.webp",
+      "url": "https://peteroravec.com/assets/images/logos/dev-lotus-notes.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "4a18ced20bd3659f",
+      "kind": "image",
+      "name": "dev-php.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\4a18ced20bd3659f.webp",
+      "url": "https://peteroravec.com/assets/images/logos/dev-php.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "3f8cf6a43af984e4",
+      "kind": "image",
+      "name": "exterior-small-2.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\3f8cf6a43af984e4.webp",
+      "url": "https://peteroravec.com/assets/maps/exterior-small-2.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "fb5751a016edb7fe",
+      "kind": "image",
+      "name": "exterior-small-3.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\fb5751a016edb7fe.webp",
+      "url": "https://peteroravec.com/assets/maps/exterior-small-3.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "edbc11834f0acf44",
+      "kind": "image",
+      "name": "exterior-small-4.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\edbc11834f0acf44.webp",
+      "url": "https://peteroravec.com/assets/maps/exterior-small-4.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "2cb42bbe6f2fcfbd",
+      "kind": "image",
+      "name": "exterior-small-5.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\2cb42bbe6f2fcfbd.webp",
+      "url": "https://peteroravec.com/assets/maps/exterior-small-5.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "7265c36892f82212",
+      "kind": "image",
+      "name": "exterior-small-6.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\7265c36892f82212.webp",
+      "url": "https://peteroravec.com/assets/maps/exterior-small-6.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "a124063d3e78a259",
+      "kind": "image",
+      "name": "exterior-small-7.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\a124063d3e78a259.webp",
+      "url": "https://peteroravec.com/assets/maps/exterior-small-7.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "1c46ccf65e3ea66a",
+      "kind": "image",
+      "name": "exterior-small-8.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\1c46ccf65e3ea66a.webp",
+      "url": "https://peteroravec.com/assets/maps/exterior-small-8.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "c6fc1fa321354544",
+      "kind": "image",
+      "name": "exterior-small-9.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\c6fc1fa321354544.webp",
+      "url": "https://peteroravec.com/assets/maps/exterior-small-9.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "cb40e8e50904b99a",
+      "kind": "image",
+      "name": "exterior-small-10.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\cb40e8e50904b99a.webp",
+      "url": "https://peteroravec.com/assets/maps/exterior-small-10.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "cd95ade6b8973250",
+      "kind": "image",
+      "name": "exterior-small-11.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\cd95ade6b8973250.webp",
+      "url": "https://peteroravec.com/assets/maps/exterior-small-11.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "89c2097403af5dce",
+      "kind": "image",
+      "name": "exterior-small-12.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\89c2097403af5dce.webp",
+      "url": "https://peteroravec.com/assets/maps/exterior-small-12.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "134546dc936e38b7",
+      "kind": "image",
+      "name": "exterior-small-13.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\134546dc936e38b7.webp",
+      "url": "https://peteroravec.com/assets/maps/exterior-small-13.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "1fad350731fe5dbc",
+      "kind": "image",
+      "name": "exterior-small-14.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\1fad350731fe5dbc.webp",
+      "url": "https://peteroravec.com/assets/maps/exterior-small-14.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "e36759d8a32d7f8c",
+      "kind": "image",
+      "name": "exterior-small-15.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\e36759d8a32d7f8c.webp",
+      "url": "https://peteroravec.com/assets/maps/exterior-small-15.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "261b78c655d75030",
+      "kind": "image",
+      "name": "exterior-small-16.webp",
+      "path": "C:\\Users\\ZhuanZ1\\AppData\\Local\\Temp\\browser-use\\assets\\9c828a56-aa6a-4801-8b09-92be5e8599eb\\261b78c655d75030.webp",
+      "url": "https://peteroravec.com/assets/maps/exterior-small-16.webp"
+    }
+  ],
+  "failures": []
+}
